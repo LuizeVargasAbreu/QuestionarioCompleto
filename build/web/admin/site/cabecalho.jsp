@@ -58,6 +58,10 @@
                                 <i class="fa fa-google-plus"></i> Sign in with Google
                             </a>
                         </li>
+                        <li><a class="btn btn-block btn-social btn-twitter" href="https://twitter.com/">
+                                <i class="fa fa-twitter"></i> Sign in with Twitter
+                            </a>
+                        </li>
                         <li class="divider"></li>
                         <li><a href="sair"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
                         </li>
