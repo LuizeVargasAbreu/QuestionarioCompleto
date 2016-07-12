@@ -49,24 +49,24 @@
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                         <i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>
                     </a>
-                    <ul class="dropdown-menu dropdown-user">
-                        <li><a class="btn btn-block btn-social btn-facebook" href="https://www.facebook.com/">
-                                <i class="fa fa-facebook"></i> Sign in with Facebook
-                            </a>
-                        </li>
-                        <li><a class="btn btn-block btn-social btn-google-plus" href="https://www.google.com/intl/pt-BR/mail/help/about.html" bgcolor="#FF0000">
-                                <i class="fa fa-google-plus"></i> Sign in with Google
-                            </a>
-                        </li>
-                        <li><a class="btn btn-block btn-social btn-twitter" href="https://twitter.com/">
-                                <i class="fa fa-twitter"></i> Sign in with Twitter
-                            </a>
-                        </li>
-                        <li class="divider"></li>
-                        <li><a href="sair"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
-                        </li>
-                    </ul>
-                    <!-- /.dropdown-user -->
+                         <ul class="dropdown-menu dropdown-user">
+                             <li><a class="btn btn-block btn-social btn-facebook" href="https://www.facebook.com" >
+                                     <i class="fa fa-facebook"></i> Sign in with Facebook
+                                 </a>
+                             </li>
+                             <li><a class="btn btn-block btn-social btn-google-plus" href="https://www.google.com/intl/pt-BR/mail/help/about.html" >
+                                     <i class="fa fa-google-plus"></i> Sign in with Google
+                                 </a>
+                             </li>
+                             <li><a class="btn btn-block btn-social btn-twitter" href="https://twitter.com/">
+                                     <i class="fa fa-twitter"></i> Sign in with Twitter
+                                 </a>
+                             </li>
+                             <li class="divider"></li>
+                             <li><a href="sair.jsp"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                             </li>
+                         </ul>
+                         <!-- /.dropdown-user -->
                 </li>
    
         
